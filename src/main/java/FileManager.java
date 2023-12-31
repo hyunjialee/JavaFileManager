@@ -1,6 +1,7 @@
 import java.io.*;
 
 public class FileManager {
+    // Read through and ran console
 
     private Console console;
     private FileOperator fileops;
